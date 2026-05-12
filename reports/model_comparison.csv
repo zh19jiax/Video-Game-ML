@@ -1,0 +1,6 @@
+model,r2,rmse,train_seconds
+Baseline (mean),-0.0,11.5022,0.0
+Random Forest,0.9597,2.3103,3.26
+HistGradientBoosting,0.962,2.2419,1.1
+GradientBoosting (sklearn),0.962,2.2409,16.8
+Neural Network (MLP-16),0.9615,2.257,6.97
